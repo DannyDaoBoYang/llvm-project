@@ -3645,7 +3645,7 @@ libc_support_library(
         ":__support_fputil_multiply_add",
         ":__support_macros_config",
         ":__support_macros_optimization",
-        ":__support_sincosf16_utils",
+        ":__support_math_sincosf16_utils",
     ],
 )
 
