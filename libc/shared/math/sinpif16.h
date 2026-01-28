@@ -20,4 +20,4 @@ using math::sinpif16;
 } // namespace shared
 } // namespace LIBC_NAMESPACE_DECL
 
-#endif 
+#endif // LLVM_LIBC_SHARED_MATH_SINPIF16_H
